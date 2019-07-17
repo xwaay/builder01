@@ -1,0 +1,4 @@
+o) Cors
+o) unset API Key
+o) auth method: none
+o) access control localhost only removed
